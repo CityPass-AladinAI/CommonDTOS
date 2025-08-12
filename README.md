@@ -10,5 +10,5 @@ maven { url 'https://jitpack.io' }
 
 - Step 2: Add the dependency
 ```
-implementation 'com.github.CityPass-AladinAI:CommonDTOS:v*'
+implementation 'com.github.CityPass-AladinAI:CommonUtils:v*'
 ```
