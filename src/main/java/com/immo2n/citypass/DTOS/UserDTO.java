@@ -1,4 +1,4 @@
-package com.immo2n.citypass.commonDTOS;
+package com.immo2n.citypass.DTOS;
 
 import lombok.Data;
 
